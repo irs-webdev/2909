@@ -1,0 +1,20 @@
+{
+  "name": "29.09",
+  "version": "0.0.8",
+  "description": "Файлы с занятия",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://grgd@bitbucket.org/grgd/29.09.git"
+  },
+  "author": "irs",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/grgd/29.09#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "fs-extra": "^7.0.0"
+  }
+}
